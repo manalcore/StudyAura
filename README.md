@@ -1,0 +1,2 @@
+# StudyAura
+ai powered learning 
